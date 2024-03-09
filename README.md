@@ -1,8 +1,8 @@
 # Goldsvet-New-92-Pragmatic-Games
+![NewGoldsvet](https://github.com/BetCodex/Goldsvet-New-92-Pragmatic-Games/assets/162466962/0c9fbb5b-e290-4ab4-b0f7-db61fdeaad27)
+<br>
+<br>
 92 Pragmatic Games is cracked and does not require API. Source codes of the games are included. Our product is fully compatible with Goldsvet. It works with drag and drop. Code knowledge is required for integration with other scripts.
-<br>
-<br>
-![4](https://github.com/BetCodex/Goldsvet-New-92-Pragmatic-Games/assets/162466962/0c9fbb5b-e290-4ab4-b0f7-db61fdeaad27)
 <br>
 <br>
 <b>Video:</b> https://youtu.be/LaK1zndzUHg
@@ -11,9 +11,7 @@
 <b>Link:</b> https://betcodex.com/item/goldsvet-new-92-pragmatic-games
 <br>
 <br>
-<b>List of Games:</b>
-<br>
-<br>
+<b>List of Games:</b><br>
 AladdinAndtheSorcerer<br>
 AncientEgyptClassic<br>
 AztecGemsDeluxe<br>
