@@ -8,9 +8,6 @@
 <b>Video:</b> https://youtu.be/LaK1zndzUHg
 <br>
 <br>
-<b>Link:</b> https://betcodex.com/item/goldsvet-new-92-pragmatic-games
-<br>
-<br>
 <b>List of Games:</b><br>
 AladdinAndtheSorcerer<br>
 AncientEgyptClassic<br>
